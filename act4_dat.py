@@ -1,0 +1,11 @@
+T = [1, 2, 3, 4]
+I = ['GAS','SOLAR','EOLICO']
+
+D = {1: 620,2: 670,3: 730,4: 800}
+CI = {'GAS': 50, 'SOLAR': 65,'EOLICO': 60}
+CO = {'GAS': 4.6, 'SOLAR': 0.2,'EOLICO': 0.7}
+
+ND = 70
+CMAXC= 600
+CMAXG= 100
+CMING= 0.75
